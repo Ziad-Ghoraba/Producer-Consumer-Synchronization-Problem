@@ -67,8 +67,6 @@ Mutex locks are Boolean variables that enforce mutual exclusion.
 - `Acquire()`: Ensures a thread gains exclusive access to the critical section.  
 - `Release()`: Frees the lock after the critical section is executed.  
 
-## Notes  
-This repository is part of my studies on **Operating Systems** to understand and simulate process synchronization mechanisms.  
 
 ## Author  
 Created by **Ziad Ghoraba** as part of studying **Operating Systems** concepts to simulate and understand process synchronization and critical sections.  
